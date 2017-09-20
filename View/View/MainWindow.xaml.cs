@@ -28,12 +28,19 @@ namespace View
             ExcelReader er = new ExcelReader();
             var rows = er.ExcelReaderTry().Tables[2].AsEnumerable().Skip(10);
             // DataView dw = new DataView(er.ExcelReaderTry().Tables[2].AsEnumerable().Skip(10));       
-            DataTable dt =er.ExcelReaderTry().Tables[2];
-            dt = dt.Rows.Cast<DataRow>().whSkip(10);
-            DGTable.ItemsSource = dt.AsDataView();
-                //44 new DataView(er.ExcelReaderTry().Tables[2]);
-           
-           // DGTable.ItemsSource = st.AsEnumerable();
+            
+            DataTable dt = er.ExcelReaderTry().Tables[2];
+            var ttt = dt.Rows.Cast<DataRow>().Skip(10).Take(20).Select(x =>
+            new Table_1(Convert.ToInt32(x[0].ToString()), (string)x[2], (string)x[3])).ToList();
+            DGTable.ItemsSource = ttt;
+
+
+
+
+
+            //44 new DataView(er.ExcelReaderTry().Tables[2]);
+
+            // DGTable.ItemsSource = st.AsEnumerable();
         }
     }
 }

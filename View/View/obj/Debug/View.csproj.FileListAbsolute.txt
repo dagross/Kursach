@@ -38,3 +38,23 @@ C:\Users\student.LAN\Desktop\Kursach\View\View\obj\Debug\MainWindow.baml
 C:\Users\student.LAN\Desktop\Kursach\View\View\obj\Debug\View.g.resources
 C:\Users\student.LAN\Desktop\Kursach\View\View\obj\Debug\View.Properties.Resources.resources
 C:\Users\student.LAN\Desktop\Kursach\View\View\obj\Debug\View.csproj.GenerateResource.Cache
+D:\Kursach\View\View\bin\Debug\View.exe.config
+D:\Kursach\View\View\obj\Debug\View.exe
+D:\Kursach\View\View\obj\Debug\View.pdb
+D:\Kursach\View\View\bin\Debug\View.exe
+D:\Kursach\View\View\bin\Debug\View.pdb
+D:\Kursach\View\View\bin\Debug\ExcelDataReader.dll
+D:\Kursach\View\View\bin\Debug\Excell Reader.dll
+D:\Kursach\View\View\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Kursach\View\View\bin\Debug\Excell Reader.pdb
+D:\Kursach\View\View\bin\Debug\ExcelDataReader.xml
+D:\Kursach\View\View\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Kursach\View\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\Kursach\View\View\obj\Debug\MainWindow.g.cs
+D:\Kursach\View\View\obj\Debug\App.g.cs
+D:\Kursach\View\View\obj\Debug\View_MarkupCompile.cache
+D:\Kursach\View\View\obj\Debug\View_MarkupCompile.lref
+D:\Kursach\View\View\obj\Debug\MainWindow.baml
+D:\Kursach\View\View\obj\Debug\View.g.resources
+D:\Kursach\View\View\obj\Debug\View.Properties.Resources.resources
+D:\Kursach\View\View\obj\Debug\View.csproj.GenerateResource.Cache

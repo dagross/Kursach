@@ -51,7 +51,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="DB\DBContext.cs" />
     <Compile Include="DB\Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
