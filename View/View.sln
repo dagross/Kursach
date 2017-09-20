@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "View\View.csproj", "{9DA632CB-820B-4C96-87CE-E880233E4FC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excell_Reader", "Excell Reader\Excell_Reader.csproj", "{DF46AE90-1944-4C2E-81C8-C0D85B7EC9E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBEngine", "DBEngine\DBEngine.csproj", "{2B09CA48-D029-4A2E-A8D5-F3C7467BFCEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA632CB-820B-4C96-87CE-E880233E4FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA632CB-820B-4C96-87CE-E880233E4FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA632CB-820B-4C96-87CE-E880233E4FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA632CB-820B-4C96-87CE-E880233E4FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF46AE90-1944-4C2E-81C8-C0D85B7EC9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF46AE90-1944-4C2E-81C8-C0D85B7EC9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF46AE90-1944-4C2E-81C8-C0D85B7EC9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF46AE90-1944-4C2E-81C8-C0D85B7EC9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B09CA48-D029-4A2E-A8D5-F3C7467BFCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B09CA48-D029-4A2E-A8D5-F3C7467BFCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B09CA48-D029-4A2E-A8D5-F3C7467BFCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B09CA48-D029-4A2E-A8D5-F3C7467BFCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

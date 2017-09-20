@@ -1,0 +1,18 @@
+D:\Projects\View\Excell Reader\bin\Debug\Excell Reader.dll
+D:\Projects\View\Excell Reader\bin\Debug\Excell Reader.pdb
+D:\Projects\View\Excell Reader\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Projects\View\Excell Reader\bin\Debug\ExcelDataReader.dll
+D:\Projects\View\Excell Reader\bin\Debug\ExcelDataReader.xml
+D:\Projects\View\Excell Reader\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Projects\View\Excell Reader\obj\Debug\Excell_Reader.csprojResolveAssemblyReference.cache
+D:\Projects\View\Excell Reader\obj\Debug\Excell Reader.dll
+D:\Projects\View\Excell Reader\obj\Debug\Excell Reader.pdb
+C:\Users\student.LAN\Desktop\Kursach\View\Excell Reader\bin\Debug\Excell Reader.dll
+C:\Users\student.LAN\Desktop\Kursach\View\Excell Reader\bin\Debug\Excell Reader.pdb
+C:\Users\student.LAN\Desktop\Kursach\View\Excell Reader\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\student.LAN\Desktop\Kursach\View\Excell Reader\bin\Debug\ExcelDataReader.dll
+C:\Users\student.LAN\Desktop\Kursach\View\Excell Reader\bin\Debug\ExcelDataReader.xml
+C:\Users\student.LAN\Desktop\Kursach\View\Excell Reader\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\student.LAN\Desktop\Kursach\View\Excell Reader\obj\Debug\Excell_Reader.csprojResolveAssemblyReference.cache
+C:\Users\student.LAN\Desktop\Kursach\View\Excell Reader\obj\Debug\Excell Reader.dll
+C:\Users\student.LAN\Desktop\Kursach\View\Excell Reader\obj\Debug\Excell Reader.pdb
